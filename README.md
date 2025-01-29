@@ -12,7 +12,7 @@ Welcome to the **Chat App** with AI integration! This application allows users t
 
 ## Screenshots
 
-![Chat App Screenshot](./frontend/public/chat.png)
+![Chat App Screenshot](./Frontend/public/chat.png)
 
 ## Tech Stack
 
