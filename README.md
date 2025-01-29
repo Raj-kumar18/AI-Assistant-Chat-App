@@ -6,7 +6,6 @@ Welcome to the **Chat App** with AI integration! This application allows users t
 
 - **Interactive Chat Interface**: Users can send messages and get instant AI responses.
 - **Generative AI Integration**: Powered by Google's Gemini model for high-quality and accurate responses.
-- **Real-time Communication**: Smooth real-time messaging with automatic scrolling to the latest message.
 - **Customizable UI**: Beautiful, responsive design with animation and a modern user interface.
 - **Error Handling and Retry Mechanism**: Built-in retry logic in case of temporary AI service unavailability.
 
@@ -39,3 +38,14 @@ Before you begin, ensure you have the following installed:
 ```bash
 git clone https://github.com/your-username/chat-app.git
 cd chat-app
+
+```
+2. **Install Dependencies**:
+
+```bash
+npm install
+```
+
+GEMINI_API_KEY=your-google-api-key-here
+
+
